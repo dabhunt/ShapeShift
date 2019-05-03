@@ -1,0 +1,18 @@
+/*Use custom roboto google font,
+ set a width of 1136, 
+ and background color to match game*/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	width: 1136px;
+	margin: auto;
+	background-color: #32262a;
+}
+
+#gameTitle {
+	font-size: 3em;
+	color: white;
+	text-align: center;
+	line-height: 2em;
+}
+
